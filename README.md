@@ -1,6 +1,8 @@
 # Multiplayer-Painter
-###A Java CoPainter using SWING.
-##Notes
+
+A Java CoPainter using SWING.
+
+### Notes
 * This CoPainter looks better in Mac OS, and other Unix based OS. The GUI looks a bit stranged in windows.
 * I finish this CoPainter in my sophomore year, it is just for fun.
 * I am considering using Javascript or GacUI(C++) to rewrite it.
