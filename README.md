@@ -7,7 +7,7 @@ A Java CoPainter using SWING.
 * I finish this CoPainter in my sophomore year, it is just for fun.
 * I am considering using Javascript or GacUI(C++) to rewrite it.
 
-##Set Up Guide:
+###Set Up Guide:
 ####I. Compile using
 ```Bash
   cd src
