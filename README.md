@@ -1,4 +1,4 @@
-# Multiplayer-Painter
+# CoPainter
 
 A Java CoPainter using SWING.
 
