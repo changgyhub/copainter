@@ -1,6 +1,6 @@
 # CoPainter
 
-A Java CoPainter using SWING.
+A Collaborative Java Painter using SWING.
 
 ### Notes
 * This CoPainter looks better in Mac OS, and other Unix based OS. The GUI looks a bit stranged in windows.
