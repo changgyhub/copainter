@@ -5,7 +5,8 @@ A Collaborative Java Painter using SWING.
 ### Notes
 * This CoPainter looks better in Mac OS, and other Unix based OS. The GUI looks a bit stranged in windows.
 * I finish this CoPainter in my sophomore year, it is just for fun.
-* I am considering using Javascript or GacUI(C++) to rewrite it.
+* I am considering using Javascript or Qt to rewrite it.
+* Do not copy contents of this repo for course assignments. You should take the responsibility for any form of plagiarism.
 
 ### Set Up Guide:
 #### I. Compile using
